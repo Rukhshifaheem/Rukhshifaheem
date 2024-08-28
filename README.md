@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Rukhshifaheem/Rukhshifaheem/blob/main/github.banner.png)
 <h1 align="center">Hi 👋, I'm Rukhshi Faheem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
